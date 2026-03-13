@@ -12,6 +12,7 @@
 - 針對語詞的例外排除同上, 建議使用相容格式
 - 名詞各類別、形容詞皆使用獨立的檔案管理
 - 語詞請使用英文
+- 最後請撰寫 README.md
 
 ## TODO
 ### Phase 1: Environment & Data Setup
