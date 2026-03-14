@@ -1,15 +1,14 @@
 [
-  "apple", "apricot", "artichoke", "asparagus", "avocado", "bacon", "bagel", "banana", "barley", "basil",
-  "bean", "beef", "berry", "biscuit", "bread", "broccoli", "burger", "butter", "cabbage", "cake",
-  "candy", "carrot", "cashew", "celery", "cereal", "cheese", "cherry", "chili", "chip", "chive",
-  "cider", "clam", "clove", "cocoa", "coconut", "coffee", "cookie", "corn", "crab", "cream",
-  "crisp", "curry", "date", "donut", "duck", "egg", "fig", "fish", "flour", "garlic",
-  "ginger", "grape", "guava", "ham", "honey", "icing", "jam", "jelly", "juice", "kale",
-  "kebab", "kiwi", "lamb", "lard", "lemon", "lentil", "lettuce", "lime", "liver", "lobster",
-  "maize", "mango", "melon", "milk", "mint", "miso", "muffin", "mushroom", "noodle", "nut",
-  "oat", "oil", "olive", "onion", "orange", "oyster", "pasta", "pastry", "peach", "peanut",
-  "pear", "peas", "pepper", "pickle", "pie", "pizza", "plum", "pork", "potato", "prawn",
-  "pumpkin", "quince", "radish", "raisin", "rice", "roast", "salad", "salami", "salmon", "salt",
-  "sauce", "shrimp", "soup", "spice", "steak", "sugar", "sushi", "taco", "tea", "toast",
-  "tofu", "tomato", "trout", "tuna", "turkey", "waffle", "walnut", "wheat", "wine", "yeast"
+  "artichoke", "asparagus", "bacon", "bagel", "barley", "basil", "bean", "beef", "biscuit", "bread",
+  "broccoli", "burger", "butter", "cabbage", "cake", "candy", "carrot", "cashew", "celery", "cereal",
+  "cheese", "chili", "chip", "chive", "cider", "clam", "clove", "cocoa", "coffee", "cookie",
+  "corn", "crab", "cream", "crisp", "curry", "donut", "duck", "egg", "flour", "garlic",
+  "ginger", "ham", "honey", "icing", "jam", "jelly", "juice", "kale", "kebab", "lamb",
+  "lard", "lentil", "lettuce", "liver", "lobster", "maize", "milk", "mint", "miso", "muffin",
+  "mushroom", "noodle", "nut", "oat", "oil", "onion", "oyster", "pasta", "pastry", "peanut",
+  "peas", "pepper", "pickle", "pie", "pizza", "pork", "potato", "prawn", "pumpkin", "radish",
+  "raisin", "rice", "roast", "salad", "salami", "salmon", "salt", "sauce", "shrimp", "soup",
+  "spice", "steak", "sugar", "sushi", "taco", "tea", "toast", "tofu", "tomato", "trout",
+  "tuna", "turkey", "waffle", "walnut", "wheat", "wine", "yeast", "zucchini", "eggplant", "spinach",
+  "cucumber", "cauliflower", "radish", "turnip", "beetroot", "parsnip", "leek", "shallot", "scallion", "chives"
 ]
