@@ -1,1 +1,11 @@
-["ant", "bee", "beetle", "butterfly", "cricket", "dragonfly", "fly", "moth", "spider", "wasp"]
+[
+  "ant", "aphid", "bee", "beetle", "bug", "butterfly", "cicada", "cockroach", "cricket", "dragonfly",
+  "earwig", "flea", "fly", "gnat", "grasshopper", "hornet", "ladybug", "locust", "louse", "maggot",
+  "mantis", "midge", "mite", "mosquito", "moth", "phasmid", "roach", "scarab", "scorpion", "silverfish",
+  "spider", "termite", "thrip", "tick", "wasp", "weevil", "worm", "firefly", "glowworm", "lacewing",
+  "mayfly", "skipper", "stinkbug", "tarantula", "waterstrider", "katydid", "yellowjacket", "bedbug", "fruitfly", "housefly",
+  "horsefly", "blackfly", "deerfly", "blowfly", "botfly", "stablefly", "sandfly", "tsetsefly", "cranefly", "damselfly",
+  "stonefly", "caddisfly", "alderfly", "dobsonfly", "fishfly", "snakefly", "scorpionfly", "hangingfly", "snowfly", "sawfly",
+  "woodwasp", "horntail", "gallwasp", "chalcid", "ichneumon", "braconid", "velvetant", "spiderwasp", "potterwasp", "paperwasp",
+  "honeybee", "bumblebee", "carpenterbee", "leafcutterbee", "sweatbee", "miningbee", "masonbee", "cuckoo规范", "assassinbug", "ambushbug"
+]
