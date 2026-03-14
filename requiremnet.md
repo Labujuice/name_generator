@@ -32,6 +32,6 @@
 - [x] Add "Copy to Clipboard" functionality
 
 ### Phase 4: Final Polish & Documentation
-- [ ] Final testing and word list refinement
-- [ ] Write comprehensive README.md (English/Traditional Chinese)
-- [ ] Package as a portable script or executable
+- [x] Final testing and word list refinement
+- [x] Write comprehensive README.md (English/Traditional Chinese)
+- [x] Package as a portable script or executable
