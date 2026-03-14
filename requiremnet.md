@@ -22,9 +22,9 @@
 - [x] Populate JSON data with English word lists (single words only)
 
 ### Phase 2: Core Logic Development
-- [ ] Implement data loading logic using Python `json` module
-- [ ] Implement core name generation logic (Category selection, Adjective toggle)
-- [ ] Implement exclusion filtering system
+- [x] Implement data loading logic using Python `json` module
+- [x] Implement core name generation logic (Category selection, Adjective toggle)
+- [x] Implement exclusion filtering system
 
 ### Phase 3: User Interface (UI)
 - [ ] Develop a user interface (Simple CLI or Tkinter GUI) for settings
