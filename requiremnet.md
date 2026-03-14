@@ -33,4 +33,5 @@
 
 ### Phase 4: Deployment & Final Polish
 - [ ] Final testing and word list refinement
+- [ ] Write comprehensive README.md (English/Traditional Chinese)
 - [ ] Deploy to hosting (GitHub Pages or Vercel)
